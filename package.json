@@ -1,0 +1,21 @@
+{
+  "name": "cdiscount",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon src/index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "line-reader": "^0.4.0",
+    "puppeteer": "^5.2.1",
+    "puppeteer-page-proxy": "^1.2.8"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.4",
+    "prettier": "2.1.1"
+  }
+}
